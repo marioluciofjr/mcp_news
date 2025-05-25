@@ -49,6 +49,9 @@ Este MCP-Server tem as seguintes classes:
  
 Se quiser conversar sobre esse projeto, basta acessar a versão [TalkToGitHub](https://talktogithub.com/marioluciofjr/mcp_news)
 
+Want to better understand this repository, but you don't speak Portuguese? Check out this complete tutorial: [`Codebase - mcp_news`](https://code2tutorial.com/tutorial/a67c8977-c7d2-49de-8374-c601a2893a00/index.md)
+
+
 ## Tecnologias utilizadas
 
 <div>
